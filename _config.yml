@@ -1,6 +1,10 @@
 title: Muhammad Ikhsan
 logo: "/images/logo.png?raw=true"
-description:
+description: >
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
   <a href="www.linkedin.com/in/ikhsan-muhammad">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
