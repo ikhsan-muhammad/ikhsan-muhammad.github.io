@@ -1,10 +1,6 @@
 title: Muhammad Ikhsan
 logo: "/assets/Mask group.png?raw=true"
-description: >
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+description: 
   <a href="www.linkedin.com/in/ikhsan-muhammad">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
