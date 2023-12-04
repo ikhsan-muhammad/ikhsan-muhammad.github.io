@@ -35,12 +35,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#201f20;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#Ec008c;
   font-weight: bold;
 }
 
@@ -208,6 +208,10 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.orderlist{
+  color: #Ec008c;
 }
 
 @media print, screen and (max-width: 960px) {
