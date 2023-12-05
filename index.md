@@ -94,11 +94,11 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](assets/images/Mask%20group%20(9).png)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](assets/images/Mask%20group%20(1).png.png)
 
 
 ### Definition lists can be used with HTML syntax.
