@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](assets/images/Mask%20group%20(9).png)
+![Branching](https://upload.wikimedia.org/wikipedia/en/c/cb/Earthlights02_dmsp_big.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
