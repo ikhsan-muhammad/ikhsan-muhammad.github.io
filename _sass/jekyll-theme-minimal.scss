@@ -1,5 +1,7 @@
 @import "fonts";
 @import "rouge-github";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 
 body {
   background-color: #fff;
@@ -7,6 +9,11 @@ body {
   font: 14px/1.5 "NHaasGroteskDSW01", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
+}
+
+.view{
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
