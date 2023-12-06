@@ -1,4 +1,4 @@
-YOoO, Hi there. I'm Ikhsan a data entusias
+YOoO, Hi there. I'm Ikhsan a data scientist and machine learning developer. YoOo, Hi there! I'm Ikhsan, a data scientist, and machine learning developer. Leveraging a strong foundation in Computer Science with a concentration in Artificial Intelligence, I have honed my expertise in developing machine learning systems, classifying data, and extracting meaningful insights to drive informed decision-making. My experience at Balai Pengujian Standard Instrument Tanaman Buah Tropika exemplifies my ability to apply data science techniques to real-world challenges, while my volunteer work at Data Science Weekend underscores my leadership and organizational prowess in managing large-scale events. My proficiency in Python, SQL, and R, coupled with my certifications in Big Data Using Python and Data Analyst essential by Cisco, further solidifies my technical capabilities. I am confident that my skills and experience position me as a valuable asset to any organization seeking a data-driven professional.
 * * *
 # Data and Machine Learning Selected Project
 * * *
