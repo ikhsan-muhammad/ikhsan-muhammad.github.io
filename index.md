@@ -3,4 +3,4 @@ Data scientist and ML developer, passionate about turning data into insights for
 * * *
 # Data and Machine Learning Selected Project
 * * *
-## Decision Tree Model (C45) for Diagnose Mangosteen Diseases
+## Decision Tree Model (C45) for Diagnose Mangosteen Diseases from Scratch
