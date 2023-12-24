@@ -4,4 +4,4 @@ Data scientist and Machine Learning developer, passionate about turning data int
 # Data and Machine Learning Selected Project
 * * *
 ## Decision Tree Model (C45) for Diagnose Mangosteen Diseases from Scratch
-With combination of machine learning model and expert system method, I was make a machine learning web base to diagnose "queen of fruit" mangosteen diseases. this project was make to help solo-farmers and farming groups to can easly diagnose mangosteen diseases by them self. 
+With combination of machine learning model and expert system method, I was make a machine learning web base to diagnose mangosteen diseases. this project was make to help solo-farmers and farming groups to can easly diagnose mangosteen diseases by them self. 
