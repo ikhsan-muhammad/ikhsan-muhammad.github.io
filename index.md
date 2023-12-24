@@ -8,5 +8,5 @@ Data scientist and Machine Learning developer, passionate about turning data int
 ![p0-ML-ES](\assets\images\p0-ML-ES.jpg)
 
 With combination of machine learning model and expert system method, I was make a machine learning web base to diagnose mangosteen diseases. this project was make to help solo-farmers and farming groups to can easly diagnose mangosteen diseases by them self.
-<span class="tag">#SQL #PHP #RapidMiner #Excel #MySQL #Xampp #DecisionTree #CertaintyFactor</span>
-[See The Article >>](https://tv2.idlixplus.com/movie/lightyear-2022/)
+<br><span class="tag">#SQL #PHP #RapidMiner #Excel #MySQL #Xampp #DecisionTree #CertaintyFactor</span>
+<br>[See The Article >>](https://tv2.idlixplus.com/movie/lightyear-2022/)
