@@ -9,6 +9,5 @@ With combination of machine learning model and expert system method, I was make 
 
 ![p0-ML-ES](\assets\images\p0-ML-ES.jpg)
 
-[See The Article >>](https://tv2.idlixplus.com/movie/lightyear-2022/)
-
 <p class="tag">#SQL #PHP #RapidMiner #Excel #MySQL #Xampp</p>
+[See The Article >>](https://tv2.idlixplus.com/movie/lightyear-2022/)
