@@ -2,8 +2,8 @@
 <!-- ## About me -->
 Data scientist and Machine Learning developer, passionate about turning data into insights for smart decisions. Skilled in building powerful Machine Learning systems, Geospatial Data Science, and Data Analysis. Proven ability to solve real-world problems through experience and leadership. Python, SQL, and R expert, with Big Data and Data Analyst certifications.
 
-
 # Data and Machine Learning Selected Project
 * * *
 ## Decision Tree Model (C45) for Diagnose Mangosteen Diseases from Scratch
+(\assets\images\p0-ML-ES.jpg)
 With combination of machine learning model and expert system method, I was make a machine learning web base to diagnose mangosteen diseases. this project was make to help solo-farmers and farming groups to can easly diagnose mangosteen diseases by them self. 
