@@ -18,9 +18,23 @@ header{
 .view{
   font: 14px/1.5 "NHaasGroteskDSW01", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
 .tag{
   font: 14px/1.5 "NHaasGroteskDSW01", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #A0A0A0;
+  display: inline-block;
+  position: relative;
+}
+
+.tag:hover::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: yellow; /* Ganti dengan warna yang diinginkan */
+  z-index: -1;
 }
 
 .description{
