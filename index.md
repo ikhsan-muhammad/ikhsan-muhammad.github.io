@@ -4,7 +4,7 @@ Data scientist and Machine Learning developer, passionate about turning data int
 * * *
 ## Decision Tree Model (C45) for Diagnose Mangosteen Diseases from Scratch
 ![p0-ML-ES](\assets\images\p0-ML-ES.jpg)
-With combination of machine learning model and expert system method, I was make a machine learning web base to diagnose mangosteen diseases. this project was make to help solo-farmers and farming groups to can easly diagnose mangosteen diseases by them self.
+With combination of machine learning model and expert system method, I was build a machine learning web base to diagnose mangosteen diseases. this project was make to help solo-farmers and farming groups to can easly diagnose mangosteen diseases by them self.
 <br>
 <p class="tag">#SQL #PHP #RapidMiner #Excel #MySQL #Xampp #DecisionTree #CertaintyFactor</p>
 [See The Article >>](https://www.lipsum.com/){:target="_blank"}
