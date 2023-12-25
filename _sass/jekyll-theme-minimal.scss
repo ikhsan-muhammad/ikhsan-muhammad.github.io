@@ -11,6 +11,11 @@ body {
   font-weight:400;
 }
 
+::-webkit-scrollbar{
+    width: 5px;
+    border-radius: 2px;
+}
+
 header{
   font: 14px/1.5 "NHaasGroteskDSW01", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
