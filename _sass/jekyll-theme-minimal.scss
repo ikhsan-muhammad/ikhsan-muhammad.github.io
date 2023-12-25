@@ -22,20 +22,6 @@ header{
 .tag{
   font: 14px/1.5 "NHaasGroteskDSW01", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #A0A0A0;
-  display: inline-block;
-  position: relative;
-}
-
-.tag::before {
-  content: "";
-  display: inline-block;
-  height: 100%;
-  width: 0;
-}
-
-.tag:hover::before {
-  content: "#";
-  color: red; /* Ganti dengan warna yang diinginkan */
 }
 
 .description{
