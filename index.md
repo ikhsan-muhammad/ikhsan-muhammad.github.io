@@ -1,4 +1,4 @@
-I am a detail-oriented Data Analyst with a strong focus on Exploratory Data Analysis (EDA) and data visualization. Proficient in Python (Pandas, NumPy) and SQL for data manipulation, I excel at uncovering insights from complex datasets. I create clear, impactful visuals using Matplotlib, Seaborn, and Power BI to communicate findings effectively to stakeholders across all levels.
+I am a detail-oriented Data Analyst with a strong focus on Exploratory Data Analysis (EDA) and data visualization. Proficient in Python (Pandas, NumPy) and SQL for data manipulation, I excel at uncovering insights from complex datasets. I create clear, impactful visuals using Matplotlib, Seaborn, and Tableau to communicate findings effectively to stakeholders across all levels.
 
 With a keen eye for identifying patterns and trends, I collaborate well in team environments to deliver data-driven solutions that drive business success. Passionate about turning raw data into actionable insights, I am eager to contribute my skills to dynamic projects.<br>
 
