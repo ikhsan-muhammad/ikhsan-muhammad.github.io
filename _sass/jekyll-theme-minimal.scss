@@ -21,7 +21,13 @@ header{
 }
 
 .view{
-  font: 14px/1.5 "NHaasGroteskDSW01", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 14px/1.5 "NHaasGroteskDSW01", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    background-color: #161618;
+    border: #141415;
+    border-style: solid;
+    border-radius: 5px;
 }
 
 .tag{
@@ -69,7 +75,6 @@ a {
 
 a:hover, a:focus {
   color:#ffca28;
-  text-decoration: underline;
 }
 
 a small {
