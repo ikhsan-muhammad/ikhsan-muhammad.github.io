@@ -75,8 +75,12 @@ a {
 
 .button{
   color: #fff9;
-  text-decoration:none;
+}
+
+a:hover .button{
+  padding: 1px 20px;
   background-color: #353539;
+  text-decoration:none;
 }
 
 a:hover, a:focus {
