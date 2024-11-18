@@ -1,9 +1,9 @@
-<div style="color: #ffffffe6;"> A Detail-oriented Data Analyst with expertise in data wrangling, visualization, and storytelling, backed by strong analytical and problem-solving skills. Actively expanding into Machine Learning and AI, with a focus on NLP and Large Language Models (LLM) to drive impactful solutions.
+A Detail-oriented Data Analyst with expertise in data wrangling, visualization, and storytelling, backed by strong analytical and problem-solving skills. Actively expanding into Machine Learning and AI, with a focus on NLP and Large Language Models (LLM) to drive impactful solutions.
 
 I combine technical expertise with collaboration skills, honed through organizing a Data Science Weekend, which strengthened my project management and communication abilities. I aim to leverage these skills to create innovative, data-driven solutions for real-world challenges.
 
 Field of interest: Business Intelligence, Fraud & Transportation analyst, Fine-Tuning, AI Prompting, and geospatial.
-Prog.Languages & Tools: SQL, Python, Metabase, Tableau, Docker, Git.</div><br>
+Prog.Languages & Tools: SQL, Python, Metabase, Tableau, Docker, Git.<br>
 
 # Data and Machine Learning Selected Project
 
@@ -11,7 +11,7 @@ Prog.Languages & Tools: SQL, Python, Metabase, Tableau, Docker, Git.</div><br>
 
 ## Weight Cargo Analysis using San-Francisco Air-Cargo Dataset
 ![p1-airplane_cargo](\assets\images\p01_airplane_cargo.png)
-The project analyzes airplane cargo data from San Francisco air traffic statistics. It involves data wrangling to clean and refine key fields. The analysis emphasizes exploratory data analysis (EDA) using visualizations to uncover trends and insights, providing a comprehensive understanding of air cargo operations.
+<p style="color: #ffffffd9;">The project analyzes airplane cargo data from San Francisco air traffic statistics. It involves data wrangling to clean and refine key fields. The analysis emphasizes exploratory data analysis (EDA) using visualizations to uncover trends and insights, providing a comprehensive understanding of air cargo operations.</p>
 <br>
 <p class="tag">#Pandas #Matplotlib #Seaborn #Numpy</p>
 [See on github](https://github.com/ikhsan-muhammad/p01-airplane_cargo/blob/main/p01-airplane-cargo.ipynb){:target="_blank"}
