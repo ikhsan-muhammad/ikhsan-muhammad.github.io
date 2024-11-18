@@ -1,6 +1,9 @@
-I am a detail-oriented Data Analyst with a strong focus on Exploratory Data Analysis (EDA) and data visualization. Proficient in Python (Pandas, NumPy) and SQL for data manipulation, I excel at uncovering insights from complex datasets. I create clear, impactful visuals using Matplotlib, Seaborn, and Tableau to communicate findings effectively to stakeholders across all levels.
+A Detail-oriented Data Analyst with expertise in data wrangling, visualization, and storytelling, backed by strong analytical and problem-solving skills. Actively expanding into Machine Learning and AI, with a focus on NLP and Large Language Models (LLM) to drive impactful solutions.
 
-With a keen eye for identifying patterns and trends, I collaborate well in team environments to deliver data-driven solutions that drive business success. Passionate about turning raw data into actionable insights, I am eager to contribute my skills to dynamic projects.<br>
+I combine technical expertise with collaboration skills, honed through organizing a Data Science Weekend, which strengthened my project management and communication abilities. I aim to leverage these skills to create innovative, data-driven solutions for real-world challenges.
+
+Field of interest: Business Intelligence, Fraud & Transportation analyst, Fine-Tuning, AI Prompting, and geospatial.
+Prog.Languages & Tools: SQL, Python, Metabase, Tableau, Docker, Git.<br>
 
 # Data and Machine Learning Selected Project
 
@@ -8,7 +11,7 @@ With a keen eye for identifying patterns and trends, I collaborate well in team 
 
 ## Weight Cargo Analysis using San-Francisco Air-Cargo Dataset
 ![p1-airplane_cargo](\assets\images\p01_airplane_cargo.png)
-The project involves analyzing airplane cargo data sourced from the San Francisco air traffic cargo statistics. It begins with data wrangling, where essential libraries like Pandas, NumPy, Matplotlib, and Seaborn are imported, followed by loading and cleaning the dataset. Key columns such as operating and published airlines, geographical regions, cargo types, and cargo weight in pounds (LBS) are selected and renamed for clarity. The analysis focuses on exploratory data analysis (EDA), employing data visualization techniques to uncover trends and insights in the cargo data, ultimately aiming to provide a comprehensive understanding of cargo operations in the air traffic sector.
+The project analyzes airplane cargo data from San Francisco air traffic statistics. It involves data wrangling to clean and refine key fields. The analysis emphasizes exploratory data analysis (EDA) using visualizations to uncover trends and insights, providing a comprehensive understanding of air cargo operations.
 <br>
 <p class="tag">#Pandas #Matplotlib #Seaborn #Numpy</p>
 [See on github](https://github.com/ikhsan-muhammad/p01-airplane_cargo/blob/main/p01-airplane-cargo.ipynb){:target="_blank"}
