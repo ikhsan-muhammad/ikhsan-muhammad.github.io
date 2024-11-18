@@ -10,7 +10,7 @@ Prog.Languages & Tools: SQL, Python, Metabase, Tableau, Docker, Git.<br>
 * * *
 
 ## Weight Cargo Analysis using San-Francisco Air-Cargo Dataset
-![p1-airplane_cargo](\assets\images\p01_airplane_cargo.png)
+<p style="margin:0;">![p1-airplane_cargo](\assets\images\p01_airplane_cargo.png)</p>
 <p class="desc">The project analyzes airplane cargo data from San Francisco air traffic statistics. It involves data wrangling to clean and refine key fields. The analysis emphasizes exploratory data analysis (EDA) using visualizations to uncover trends and insights, providing a comprehensive understanding of air cargo operations.</p>
 <p class="tag">#Pandas #Matplotlib #Seaborn #Numpy</p>
 [See on github](https://github.com/ikhsan-muhammad/p01-airplane_cargo/blob/main/p01-airplane-cargo.ipynb){:target="_blank"}
