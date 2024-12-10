@@ -1,14 +1,9 @@
-**Hey Folks, Ikhsan Here!** 🚀
+A Detail-oriented Data Analyst with expertise in data wrangling, visualization, and storytelling, backed by strong analytical and problem-solving skills. Actively expanding into Machine Learning and AI, with a focus on NLP and Large Language Models (LLM) to drive impactful solutions.
 
-A detail-oriented Data Analyst with expertise in data wrangling, visualization, and storytelling, backed by strong analytical and problem-solving skills. Actively expanding into Machine Learning and AI, with a focus on NLP and Large Language Models (LLM) to drive impactful solutions.🌕
+I combine technical expertise with collaboration skills, honed through organizing a Data Science Weekend, which strengthened my project management and communication abilities. I aim to leverage these skills to create innovative, data-driven solutions for real-world challenges.
 
-I combine technical expertise with collaboration skills, honed through organizing a Data Science Weekend, which strengthened my project management and communication abilities. I aim to leverage these skills to create innovative, data-driven solutions for real-world challenges.✨
-
-```
-Field of interest:    <BI, Fraud & Transportation analyst, Fine-Tuning, AI Prompting, and Geospatial>
-Technical Skills:     <SQL, Python, Metabase, Tableau, Docker, Git>
-```
-<br>
+Field of interest: Business Intelligence, Fraud & Transportation analyst, Fine-Tuning, AI Prompting, and geospatial.<br>
+Prog.Languages & Tools: SQL, Python, Metabase, Tableau, Docker, Git.<br>
 
 # Data and Machine Learning Selected Project
 
